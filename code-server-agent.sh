@@ -1,2 +1,2 @@
 #!/bin/bash
-code-server --link
+code-server --link [*VPS_NAME]
